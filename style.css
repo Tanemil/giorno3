@@ -1,0 +1,32 @@
+body {
+    font-size: 3rem;
+    background-color: #22577A;
+    text-align: center;
+}
+
+h1{
+    margin-top: 1%;
+    color:#C7F9CC;
+    font-size: 5rem;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+
+table{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+table tr td {
+    flex: 1 1 0;
+    height: 5rem;
+    width: 5rem;
+    background-color: #57CC99;
+    border-color: #38A3A5;
+    text-align: center;
+}
+
+p {
+    color: #C7F9CC;
+}
